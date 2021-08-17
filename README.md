@@ -1,5 +1,7 @@
 # Simple Controllers
 
+![demo](images/demo-shot.png)
+
 ## Idea 
 
 - Create a lightweight Python/JS framework to experiment with animation, mathematical problems, and solving simple problems. 
